@@ -1,0 +1,20 @@
+<package>
+	<id>ai.akemi.appsyncunified</id>
+	<name>AppSync Unified</name>
+	<version>116.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AppSync allows install apps from PC.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
