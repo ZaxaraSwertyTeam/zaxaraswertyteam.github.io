@@ -18,6 +18,15 @@
            function xboxLive(text) {
                alert(text);
            }
+           function repoOld() {
+               try {
+                   navigator.clipboard.writeText("zaxaraswertyrepo.github.io");
+                   alert("Этот репозиторий уже просроченный, если твой браузер не собака то я скопировал сыылку на новый репозиторий")
+               } catch (err) {
+                   console.log("Твой браузер собака")
+                   alert("Посмотри в консоль JS")
+               }
+           }
       </script>
 </body>
 </html>
