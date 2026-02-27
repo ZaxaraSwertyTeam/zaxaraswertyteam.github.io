@@ -18,9 +18,9 @@
            function xboxLive(text) {
                alert(text);
            }
-           function repoOld() {
+           async function repoOld() {
                try {
-                   navigator.clipboard.writeText("zaxaraswertyrepo.github.io");
+                   await navigator.clipboard.writeText("zaxaraswertyrepo.github.io");
                    alert("Этот репозиторий уже просроченный, если твой браузер не собака то я скопировал сыылку на новый репозиторий")
                } catch (err) {
                    console.log("Твой браузер собака")
