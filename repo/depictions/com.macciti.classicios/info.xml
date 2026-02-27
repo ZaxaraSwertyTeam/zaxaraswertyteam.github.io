@@ -1,0 +1,20 @@
+<package>
+	<id>com/macciti.classicios</id>
+	<name>Classic iOS</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>9.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Classic iOS. Just a theme for WinterBoard</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
