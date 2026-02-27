@@ -19,7 +19,7 @@ Version: 1.1
 Section: Tweaks
 Maintainer: Skitty <skitty.xyz>
 Depends: firmware (>= 11.0), mobilesubstrate
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 1472466
 MD5sum: 04BDD7050AC79BC771625C6137826DE7
@@ -29,3 +29,19 @@ Description: SixLS. iOS 6 lock screen! :D
 Name: SixLS
 Author: Skitty <skitty.xyz>
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/
+
+Package: com.macciti.classicios
+Version: 1.2
+Section: Tweaks
+Maintainer: ZodTTD & MacCiti
+Depends: firmware (<9.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.macciti.classicios_1.2_iphoneos-arm.deb
+Size: 1472466
+MD5sum: 96388662F5A9A7312F5639BB0A36CF10
+SHA256: 3E2A353D22E8004C50B3F3932F7A1B015D5F904127922B6DC2E41CA8CA2CBEF7
+SHA1: B6C63AEF2032340E8D80DB7B8ACAA5B39E7108BA
+Description: Classic iOS. Just a theme for WinterBoard
+Name: SixLS
+Author: ZodTTD & MacCiti
+Depiction: https://www.ios-repo-updates.com/repository/zodttd-macciti/package/com.macciti.classicios/
