@@ -1,0 +1,16 @@
+<package>
+	<id>xyz.skitty.sixls</id>
+	<name>SixLS</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>SixLS. iOS 6 home screen! :D</shortDescription>
+	<links>
+	</links>
+</package>
