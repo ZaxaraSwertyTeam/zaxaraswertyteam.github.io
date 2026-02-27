@@ -1,0 +1,15 @@
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Section: Твики
+Maintainer: Karen/あけみ
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm64.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 49472
+MD5sum: D6A31911E878B83E47C6525FA29ECEF1
+SHA1: D00D2667C0D5421DDDFC70A2734F1D63B972A535
+SHA256: 2BDAAC72A6D1B006309B7DD28F51B1E3D351D3D8758FC9F08CA670F1D71EB382
+Description: AppSync Unified. Позволяет ставить приложения с ПК 
+Name: New Package
+Author: Karen/あけみ
+Depiction: https://github.com/akemin-dayo/AppSync
