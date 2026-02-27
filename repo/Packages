@@ -1,6 +1,6 @@
 Package: ai.akemi.appsyncunified
 Version: 116.0
-Section: Твики
+Section: Tweaks
 Maintainer: Karen/あけみ
 Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm64
