@@ -3,7 +3,7 @@ Version: 116.0
 Section: Твики
 Maintainer: Karen/あけみ
 Depends: firmware (>= 11.0), mobilesubstrate
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm64.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
 Size: 49472
 MD5sum: D6A31911E878B83E47C6525FA29ECEF1
