@@ -1,0 +1,31 @@
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Section: Tweaks
+Maintainer: Karen
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm64.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 49472
+MD5sum: D6A31911E878B83E47C6525FA29ECEF1
+SHA256: 2BDAAC72A6D1B006309B7DD28F51B1E3D351D3D8758FC9F08CA670F1D71EB382
+SHA1: D00D2667C0D5421DDDFC70A2734F1D63B972A535
+Description: AppSync adds a permission installing apps from PC.
+Name: AppSync Unified
+Author: Karen
+Depiction: https://github.com/akemin-dayo/AppSync/
+
+Package: xyz.skitty.sixls
+Version: 1.1
+Section: Tweaks
+Maintainer: Skitty <skitty.xyz>
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 1472466
+MD5sum: 04BDD7050AC79BC771625C6137826DE7
+SHA256: FEECE7D25888CE5081FAD0AD3545F9FBDC3AF3D7EBE59B714E3A0CBE1A1EDFCE
+SHA1: D019FF837C8ECE5A45426CA161B542AD234321C1
+Description: SixLS. iOS 6 lock screen! :D
+Name: SixLS
+Author: Skitty <skitty.xyz>
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/
